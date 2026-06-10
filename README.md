@@ -291,8 +291,6 @@ flutter build apk --release
 
 The output will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
-> **Tip:** On GitHub, upload the APK under **Releases** (Releases → Draft a new release → attach the `.apk` as a binary). This keeps large files out of the repo and gives users a clean download link.
-
 <div align="center">
 
 **Built with using Flutter & Firebase**
