@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481403645726",
+    "project_id": "bidwave-f2390",
+    "storage_bucket": "bidwave-f2390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481403645726:android:a5473e8eb410b4b646630f",
+        "android_client_info": {
+          "package_name": "com.bidwave.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481403645726-o7rn83i4ceuscsapjdqk0oirjvnfe2e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bidwave.app",
+            "certificate_hash": "af45cadfc89507d707b3b6499d3287c7a75a29dd"
+          }
+        },
+        {
+          "client_id": "481403645726-t23umcac7fs23ik5aef48etmb96fhv2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bidwave.app",
+            "certificate_hash": "4efb876db80bde8e64d6bb49d7762551dcd075c5"
+          }
+        },
+        {
+          "client_id": "481403645726-vpnoogr8nqg2ib9jgjmi76ijlh0l3mjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZ730JxB1M3ynMBn-doemAQq5VV_Gg94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481403645726-vpnoogr8nqg2ib9jgjmi76ijlh0l3mjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
