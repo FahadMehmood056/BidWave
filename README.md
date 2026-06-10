@@ -6,7 +6,7 @@ BidWave lets anyone be both a seller and a bidder. Post an item, set a timer, an
 
 Built with **Clean Architecture**, **BLoC**, **SOLID principles**, and **dependency injection (get_it)**, with all notifications and auction lifecycle handled reliably by **Firebase Cloud Functions**.
 
-> **Platform:** Android (iOS planned) &nbsp;•&nbsp; **State Management:** flutter_bloc &nbsp;•&nbsp; **Backend:** Firebase
+> **Platform:** Android &nbsp;•&nbsp; **State Management:** flutter_bloc &nbsp;•&nbsp; **Backend:** Firebase
 
 ---
 
@@ -281,7 +281,7 @@ UI rebuilds via BlocBuilder / BlocListener
 
 A ready-to-install APK is available so the app can be tested on any Android device without building from source.
 
-➡️ **[Download the latest APK](#)** _(replace this link with your GitHub Releases / Drive link)_
+➡️ **[Download the latest APK from GitHub Releases](https://github.com/FahadMehmood056/BidWave/releases/tag/v1.0.0)**
 
 **To build the APK yourself:**
 
@@ -305,6 +305,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with using Flutter & Firebase**
 
-⚖️ BidWave — _Real-time live auctions_
+BidWave — _Real-time live auctions_
 
 </div>
